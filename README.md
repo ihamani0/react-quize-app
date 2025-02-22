@@ -8,8 +8,6 @@ A simple and interactive quiz application built with React. This app allows user
 
 - **Multiple-choice questions**: Users can select answers from provided options.
 - **Score calculation**: The app calculates and displays the user's score at the end of the quiz.
-- **Responsive design**: The app is fully responsive and works on all devices.
-- **Review answers**: Users can review correct answers after completing the quiz.
 
 ## Technologies Used
 
